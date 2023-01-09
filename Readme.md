@@ -1,5 +1,5 @@
-## ML-Final-Project
-# Steps to Reproduce the Submission
+# ML-Final-Project
+## Steps to Reproduce the Submission
 **1.Download model and inference.ipynb.**
 
 **2.Put train.csv、test.csv、sample_submission.csv in the same directory.**
